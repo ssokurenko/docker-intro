@@ -1,7 +1,7 @@
 Introduction to Docker
 ===============
 
-[![Docker](logo.svg)](http://ssokurenko.github.io/docker-intro/)
+[![Docker](./docker-img/logo.svg)](http://ssokurenko.github.io/docker-intro/)
 
 This is an Intro to Docker slide deck built using [Reveal.js](https://github.com/hakimel/reveal.js).
 
